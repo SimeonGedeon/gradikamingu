@@ -6,8 +6,6 @@ Ce projet implémente l'algorithme de Welsh-Powell pour la résolution du probl�
 
 L'objectif est de colorier les 26 provinces de la RDC de telle sorte que deux provinces voisines (partageant une frontière terrestre) n'aient jamais la même couleur, tout en utilisant un nombre minimal de couleurs.
 
-## Contexte académique
-
 Ce travail a été réalisé dans le cadre du cours de **Recherche Opérationnelle Approfondie** (Master 1, Semestre 1, 2024-2025) à l'Université de Kinshasa.
 
 - **Enseignant** : Prof. Dr. Pierre Kafunda Katalay
