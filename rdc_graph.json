@@ -1,0 +1,53 @@
+ {
+    "Kinshasa": ["Kongo Central"],
+
+    "Kongo Central": ["Kinshasa", "Kwango", "Kwilu"],
+
+    "Kwango": ["Kongo Central", "Kwilu", "Mai-Ndombe"],
+
+    "Kwilu": ["Kongo Central", "Kwango", "Mai-Ndombe", "Kasai"],
+
+    "Mai-Ndombe": ["Kwango", "Kwilu", "Kasai", "Sankuru", "Tshuapa", "Equateur"],
+
+    "Equateur": ["Mai-Ndombe", "Tshuapa", "Mongala", "Nord-Ubangi", "Sud-Ubangi"],
+
+    "Mongala": ["Equateur", "Nord-Ubangi", "Tshopo"],
+
+    "Nord-Ubangi": ["Equateur", "Mongala", "Sud-Ubangi", "Bas-Uele"],
+
+    "Sud-Ubangi": ["Equateur", "Nord-Ubangi"],
+
+    "Tshuapa": ["Equateur", "Mai-Ndombe", "Sankuru", "Tshopo"],
+
+    "Tshopo": ["Tshuapa", "Mongala", "Bas-Uele", "Haut-Uele", "Ituri", "Maniema", "Sankuru"],
+
+    "Bas-Uele": ["Nord-Ubangi", "Tshopo", "Haut-Uele"],
+
+    "Haut-Uele": ["Bas-Uele", "Tshopo", "Ituri"],
+
+    "Ituri": ["Haut-Uele", "Tshopo", "Nord-Kivu"],
+
+    "Nord-Kivu": ["Ituri", "Maniema", "Sud-Kivu"],
+
+    "Sud-Kivu": ["Nord-Kivu", "Maniema", "Tanganyika"],
+
+    "Maniema": ["Tshopo", "Nord-Kivu", "Sud-Kivu", "Tanganyika", "Sankuru", "Lomami"],
+
+    "Tanganyika": ["Sud-Kivu", "Maniema", "Haut-Lomami", "Lualaba", "Haut-Katanga"],
+
+    "Haut-Lomami": ["Tanganyika", "Lualaba", "Haut-Katanga", "Lomami"],
+
+    "Lualaba": ["Tanganyika", "Haut-Lomami", "Haut-Katanga", "Kasai-Central"],
+
+    "Haut-Katanga": ["Tanganyika", "Haut-Lomami", "Lualaba"],
+
+    "Sankuru": ["Mai-Ndombe", "Tshuapa", "Tshopo", "Maniema", "Lomami", "Kasai-Oriental", "Kasai-Central"],
+
+    "Lomami": ["Sankuru", "Maniema", "Haut-Lomami", "Kasai-Oriental", "Kasai-Central"],
+
+    "Kasai": ["Kwilu", "Mai-Ndombe", "Kasai-Central"],
+
+    "Kasai-Central": ["Kasai", "Sankuru", "Lomami", "Kasai-Oriental", "Lualaba"],
+
+    "Kasai-Oriental": ["Kasai-Central", "Sankuru", "Lomami"]
+}
